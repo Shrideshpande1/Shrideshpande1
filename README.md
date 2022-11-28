@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🌱 I’m currently learning *React, MongoDB, NodeJS, ExpressJS*
 
-- 🔭 My Other Project [Trivvillas Clone](https://acceptable-popcorn.netlify.app/)
+- 🔭 My Other Project [Tripvillas Clone](https://acceptable-popcorn.netlify.app/)
 
 - 🔭 My Other Project [Beauty Bebo](https://venerable-sprinkles-c615f7.netlify.app/)
 
