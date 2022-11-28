@@ -17,9 +17,9 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 
 - 🔭 My Other Project [Beauty Bebo](https://venerable-sprinkles-c615f7.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://dhanraj4198.github.io/](https://dhanraj4198.github.io/)
+- 👨‍💻 All of my projects are available at [https://shrideshpande1.github.io/](https://shrideshpande1.github.io/)
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1qyWeEke0kKyDgvCAP9Yj1Jeipl_jWpw_/view?usp=share_link](https://drive.google.com/file/d/1qyWeEke0kKyDgvCAP9Yj1Jeipl_jWpw_/view?usp=share_link)
 
 - 📫 How to reach me *shrideshpande9175@gmail.com*
 
