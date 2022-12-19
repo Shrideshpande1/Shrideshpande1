@@ -15,7 +15,7 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
 - Travelling
 
 - Riding Bikes.</br>
-💻 Love coding and collaborating with others.
+<p>💻 Love coding and collaborating with others.</p>
 - 🔭 I’m currently working on [Greekbuying Clone](https://6371ebf512789d75d605c3fe--extraordinary-lokum-e2535c.netlify.app/)
 
 - 🌱 I’m currently learning *React, MongoDB, NodeJS, ExpressJS*
