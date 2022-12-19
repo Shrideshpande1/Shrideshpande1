@@ -7,10 +7,10 @@ src="https://camo.githubusercontent.com/3c71cd667843b03dec7f3fc08e01b60675050b75
    
   
 </h1>
-🌍 I am from Latur, Maharashtra.
+🌍 I am from Latur, Maharashtra.<br/>
 👀 A web developer with a vast array of knowledge in many different front end and backend languages, responsive frameworks, databases, and best code practices. Look forward to using my skills for gaining more experience.
 
-🎨 My Hobbies are :
+<h1>🎨 My Hobbies are :</h1>
 - Travelling
 - Watching F1
 - Riding Bikes.
